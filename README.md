@@ -22,7 +22,7 @@ This userscript adds those missing features by automatically playing music and r
    - [Tampermonkey for Firefox](https://tampermonkey.net/?ext=dhdg&browser=firefox)
 
 2. **Install the script**  
-   - Copy the code from [`Pixabay Music Autoplay + Shuffle`](https://github.com/l1145a1/Autoplay-Shuffle-for-Pixabay-Music-via-Userscript)  
+   - Copy the code from [`Pixabay Music Autoplay + Shuffle`](https://github.com/l1145a1/Autoplay-And-Shuffle-for-Pixabay-Music-via-Userscript/blob/6535ba5305dd88638acf941de996eed1027e2dfe/Pixabay%20Music%20Autoplay%20%2B%20Shuffle-1.0.user.js)  
    - Create a new script in Tampermonkey and paste the code.
 
 3. **Customize ID range (optional)**  
